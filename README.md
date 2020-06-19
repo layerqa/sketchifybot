@@ -1,5 +1,5 @@
 # sketchifybot
-Simple telegram bot 
+Simple telegram bot @sketchifybot
 botToken in (@botfather)
 
 # Api
