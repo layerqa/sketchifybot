@@ -1,15 +1,15 @@
-Like a URL shortener, but worse
+*Like a URL shortener, but worse*
 Who needs a shorter link? Not you, my friend. I mean, when you send someone a link, they just click it anyway, so you might as well send 'em a real clanger. This is truly crucial browsing.
 
-Is it safe?
+*Is it safe?*
 Uhhh well listen I mean it's probably about as safe as a regular URL shortener, but I wouldn't use it for something you're not okay with being randomly redirected to [Tinder for Dogs](http://www.twindog.co/).
 
-Wait so how do I know the link doesn't actually go somewhere dodgy?
+*Wait so how do I know the link doesn't actually go somewhere dodgy?*
 You're just gonna have to trust whoever sends it to you.
 
-I want to use this service for my own project
+*I want to use this service for my own project*
 Sure thing. Have a browse of the "documentation" on [GitHub](https://github.com/defaultnamehere/verylegit.link).
 Bot code in [GitHub](https://github.com/islomferg/sketchifybot)
 
-How does it work?
+*How does it work?*
 Due to rapid advancement in dark ritual technology, the programming community has streamlined the development and deployment of unspeakable eldritch horrors. Using robust open-source libraries like a sack of live geese, websites like this one can be developed with far more efficient sacrificial rituals than ever before. We're still stuck on the version with really inefficient sacrifical rituals though, due to comp͆aͭatib̊i̼͕l̈̿i̮̜t̚y̅ ͊i͋s̾s̢͈͠u̶e̛̊s̼̃.
